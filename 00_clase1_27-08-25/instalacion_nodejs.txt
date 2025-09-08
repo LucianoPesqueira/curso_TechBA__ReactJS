@@ -1,0 +1,18 @@
+pagina nodejs: https://nodejs.org/es/download
+instalar node en fedora 42:
+> sudo dnf install nodejs npm
+    -versiones:
+        > node -v: v22.18.0
+        > npm -v: 10.9.3
+
+Crear un proyecto nuevo de React:
+-creo una carpeta React e ingreso a la mista
+    > npm create vite@latest
+    > npx
+    > create-vite
+    >> Project name: prueba
+    >> Select a framework: React
+    >> Select a variant: JavaScript
+    > cd prueba
+    > npm install
+    > npm run dev
