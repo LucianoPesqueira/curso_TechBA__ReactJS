@@ -1,0 +1,17 @@
+dentro de main.jsx
+    en createroot:
+        <StrictMode>
+            <App />  ->> dejo solo <app/>
+        </StrictMode>,
+
+dentro de App.jsx
+    -elimino todo el contenido del return y puedo colocar un h1
+    -para poder tener mas de un elemento y que no presente error:
+        <>coloco todos los elementos dentro de las llaves</>
+
+
+puedo crear un nuevo archivo .jsx
+    ->luego defino una funcion con los elementos que quiero y
+        ->luego en vez de llamarlo desde main.jsx
+            ->lo hago en App.jsx que ya esta siendo llamada desde main.jsx
+                ->esa es otra forma de poder crear componentes
