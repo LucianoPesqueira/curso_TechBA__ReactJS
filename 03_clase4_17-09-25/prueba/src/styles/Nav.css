@@ -1,0 +1,15 @@
+.card-nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+.card-nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+.card-nav ul li a{
+    color: white;
+    text-decoration: none;
+}
