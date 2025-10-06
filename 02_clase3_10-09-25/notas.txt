@@ -1,0 +1,13 @@
+after: 08/09
+
+- instalar extension de talento tech:
+    https://marketplace.visualstudio.com/items?itemName=TalentoTech.tt-react-pack
+
+-rfce atajo para crear una funcion
+
+-importacion nombrada
+me permite tener varias funciones, constantes o componenetes del mismo archivo
+
+
+-pagina para practicar JS
+https://es.javascript.info/
